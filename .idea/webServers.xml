@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c9dc402-b3ce-471d-9318-e479d83d7ebe" name="localhost" url="http://localhost/regForm">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\regForm" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
